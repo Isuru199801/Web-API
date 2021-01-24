@@ -1,0 +1,21 @@
+{
+  "name": "current-project",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "Isuru",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  },
+  "keywords": [
+    "Chat"
+  ]
+}
